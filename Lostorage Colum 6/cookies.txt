@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.takaratomy.co.jp	TRUE	/	FALSE	1999999999	multi-device-switcher	deleted
-www.takaratomy.co.jp	TRUE	/	FALSE	1999999999	t2web-cookie	ffffffff09021dd345525d5f4f58455e445a4a423660
-
